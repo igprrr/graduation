@@ -1,0 +1,21 @@
+1 - Fazer um programa em MPI que
+utilize 3 processos, os processos 1 e 2 devem enviar um valor inteiro para o
+processo 0. O processo 0 deve efetuar as 4 operações básicas com os inteiros
+recebidos (+,-.*,/), após isso deve imprimir os resultados.
+
+
+
+2 - Fazer um programa em MPI que calcule a velocidade de um carro (V = D/T), a
+distancia deve ser enviada por um processo e o tempo por outro processo. O
+processo raíz deve efetuar o calculo e mostrar o resultado.
+
+
+ 3 - Faça um programa que
+calcule o quadrado da soma (a + b)2 , em 4 processos: o processo
+ZERO envia “a” para o processo 1, “a” e “b” para o processo 2 e “b” para o
+processo 3. No final cada processo responde com a operação equivalente.
+
+
+
+4 - Faça um programa em MPI
+que some duas matrizes 2x2.
